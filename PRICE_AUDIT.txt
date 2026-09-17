@@ -1,5 +1,0 @@
-TRUE NORTH PRICE AUDIT — 2026-09-16
-
-Reviewed salaries of rostered players across all eight teams and compared them with position/rank neighborhoods. Zero-dollar MIN contracts were excluded from price calibration; cheap breakout/legacy contracts were treated as imperfect lower-bound evidence.
-
-Result: no wholesale reranking. Added Market Estimate (MKT) separately from True North value and MAX bid. Raddysh market estimate is $2.20 with a $2.10 True North ceiling; McCabe $1.50; Trouba $1.40. Forward and goalie market estimates were recalibrated from the league's existing salary structure while preserving strategic bid discipline.
