@@ -1,0 +1,17 @@
+TRUE NORTH LOCKED MASTER RULES — 2026-09-16
+
+1. Superseded True North rankings/scores/tiers/fit conclusions have ZERO authority and are not ranking inputs.
+2. Fresh regular-player ranking inputs are valid raw projections/evidence only.
+3. F direct scoring: G, A, PIM, PPA, PPG only, equal-category treatment.
+4. D direct scoring: G, A, PIM, BLK only, equal-category treatment.
+5. G direct scoring: Wins and GAA only. Workload/team context matters only through those categories and Monday-lock certainty.
+6. Fantrax is sanity/market information only, never a mathematical ranking weight.
+7. Newer comparable evidence supersedes stale evidence.
+8. Role/PP/team/injury context matters only insofar as it changes scored-category expectations or lineup certainty.
+9. Methodology corrections apply to all comparable players, not one-player patches.
+10. Rookie eligibility: 26+ NHL GP on rookie draft day is ineligible; <=25 eligible. No runway penalty. Over age 25 is not rookie eligible.
+11. Prospect evidence is not blindly averaged; Button, McKenzie/scout consensus, Dobber/DobberProspects, draft position, subsequent development, organizational/PP opportunity and current evidence are weighed according to relevance and recency.
+12. Certainty matters; sleeper/upside labels alone do not justify aggressive ranks.
+13. Locked rookie regression: Michael Hage = #7. Protas remains ahead of Smits absent material PP1 evidence changing that assessment.
+14. Known regular-player regression: Sidney Crosby ranks above Vincent Trocheck in this current build.
+15. GitHub package must have index.html at ZIP root, .nojekyll at root, and all local dependencies must resolve.

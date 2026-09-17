@@ -1,0 +1,24 @@
+TRUE NORTH FINAL PRE-HTML VALIDATION
+
+Spreadsheet was checked BEFORE this HTML package was assembled.
+PASS — 238 forwards
+PASS — 164 defensemen
+PASS — 49 goalies
+PASS — 451 regular players total
+PASS — 30 rookies
+PASS — Michael Hage rookie rank = 7
+PASS — rookie #3 = Igor Chernyshov
+PASS — Ilya Protas ranks ahead of Alberts Smits
+PASS — Sidney Crosby ranks ahead of Vincent Trocheck
+PASS — website player ranks match final spreadsheet ranks for all 451 regular players
+PASS — website rookie rank/position/team match final spreadsheet for all 30 rookies
+PASS — Fantrax rank is display/market comparison only, not score input
+PASS — old True North rankings/scores/tiers/fit are excluded as ranking inputs
+PASS — no spreadsheet formula error tokens found in final scan
+PASS — index.html is at publishing root
+PASS — .nojekyll is at publishing root
+PASS — index.html dependencies exist
+PASS — app.js syntax check
+PASS — data.js syntax check
+PASS — clean-extraction archive integrity
+PASS — no stale Hage rank value remains in package text
